@@ -1,0 +1,17 @@
+.button-container {
+  background-color: #1574f5;
+  height: 4rem;
+  display: flex;
+  padding: 0.625rem;
+  width: 12.5rem;
+  margin: auto;
+  border-radius: 0.313rem;
+  margin-top: 2rem;
+  cursor: pointer;
+}
+#button-text {
+  margin: auto;
+  color: white;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
