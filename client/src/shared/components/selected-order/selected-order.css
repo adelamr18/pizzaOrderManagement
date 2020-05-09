@@ -1,0 +1,21 @@
+.order-name-and-description {
+  display: flex;
+  flex-direction: column;
+}
+.selected-orders-inner {
+  display: flex;
+  justify-content: space-between;
+}
+#order-name {
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+.remove-order {
+  position: absolute;
+  right: 8.875rem;
+  cursor: pointer;
+}
+.order-price {
+  font-size: 0.875rem;
+  color: #7d7d7d;
+}
