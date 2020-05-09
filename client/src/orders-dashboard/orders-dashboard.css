@@ -1,0 +1,9 @@
+.dashboard-restaurant {
+  padding: 0 1rem;
+}
+.dashboard-menu-card {
+  padding: 0 1.1rem;
+}
+.dashboard-main-content-outer {
+  display: flex;
+}
