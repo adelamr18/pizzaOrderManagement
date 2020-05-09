@@ -1,0 +1,13 @@
+.bg-light {
+  display: flex;
+  justify-content: space-between !important;
+}
+#title {
+  cursor: pointer;
+}
+.navbar-brand {
+  margin-left: 0.5rem;
+}
+.logo-and-brand-container {
+  cursor: pointer;
+}
