@@ -1,0 +1,110 @@
+.shopping-cart-main-container {
+  box-shadow: 0 0.063rem 0.313rem 0 rgba(0, 0, 0, 0.3);
+  width: 21.5rem;
+  top: 4.5rem;
+}
+.shopping-cart-heading {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+#shopping-cart-heading-text {
+  color: #666;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.shopping-cart-text-outer {
+  padding: 0.5rem;
+}
+.shopping-cart-subheading-outer,
+.shopping-cart-subtotal-and-total-price {
+  margin-top: 1rem;
+}
+.shopping-cart-subtotal-outer,
+.shopping-cart-total-outer,
+.shopping-cart-delivery-outer {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.625rem;
+}
+
+#shopping-text {
+  font-size: 0.875rem;
+  color: #7d7d7d;
+  font-weight: 400;
+}
+.shopping-cart-subheading-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.shopping-cart-subtotal-and-total-price {
+  margin-top: 1rem;
+}
+#subtotal-heading,
+#subtotal-actual-price,
+#delivery-heading {
+  font-size: 0.875rem;
+  color: #7d7d7d;
+}
+.subtotal-actual-price {
+  display: flex;
+  flex-direction: column;
+}
+#us-dollars-price,
+#euro-total-price,
+#total-price-heading,
+#delivery-price {
+  font-size: 0.875rem;
+  color: black;
+  font-style: bold;
+  font-weight: 700;
+}
+.fa-shopping-cart {
+  font-size: 1.313rem;
+}
+.shopping-cart-order-confirmation-active {
+  background-color: #1574f5;
+  height: 4rem;
+  display: flex;
+  padding: 0.625rem;
+  width: calc(100% - 1.5rem);
+  margin: auto;
+  border-radius: 0.313rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.shopping-cart-order-confirmation-disabled {
+  border-bottom-color: #bbb;
+  background-color: #d7d7d7;
+  color: #fff;
+  text-shadow: none;
+  cursor: not-allowed;
+  height: 4rem;
+  display: flex;
+  padding: 0.625rem;
+  width: calc(100% - 1.5rem);
+  margin: auto;
+  border-radius: 0.313rem;
+  margin-top: 1rem;
+}
+#order-text {
+  margin: auto;
+  color: white;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+.selected-orders-outer {
+  padding: 0.625rem;
+}
+.empty-shopping-cart-warning {
+  padding: 1rem;
+  text-align: center;
+}
+#empty-cart-warning-text {
+  font-size: 1rem;
+  color: red;
+  font-weight: 700;
+  text-align: center;
+}
