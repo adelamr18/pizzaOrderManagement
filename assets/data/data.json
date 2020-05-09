@@ -1,0 +1,50 @@
+[
+  {
+    "pizzaName": "Pizza Margherita",
+    "pizzaDescription": "With tomato sauce and real gouda",
+    "pizzaPrice": "8.49",
+    "pizzaId": 1
+  },
+  {
+    "pizzaName": "Pizza Vegan",
+    "pizzaDescription": "with tomato sauce and vegan grated enjoyment from Simply V",
+    "pizzaPrice": "8.49",
+    "pizzaId": 2
+  },
+  {
+    "pizzaName": "Pizza Barbeque",
+    "pizzaDescription": "with barbecue sauce, corn, bell pepper, red onions, strips of chicken breast and real gouda",
+    "pizzaPrice": "11.99",
+    "pizzaId": 3
+  },
+  {
+    "pizzaName": "Pizza Sausage",
+    "pizzaDescription": "with sausages, hot dog cucumber, fried onions and hot dog tartar sauce",
+    "pizzaPrice": "10",
+    "pizzaId": 4
+  },
+  {
+    "pizzaName": "Pizza Rotterddam ",
+    "pizzaDescription": "with asparagus, broccoli and chicken breast",
+    "pizzaPrice": "8.49",
+    "pizzaId": 5
+  },
+  {
+    "pizzaName": "Pizza Margherita",
+    "pizzaDescription": "With tomato sauce and real gouda",
+    "pizzaPrice": "8.49",
+    "pizzaId": 6
+  },
+  {
+    "pizzaName": "Pizza Vienna",
+    "pizzaDescription": "With tomato sauce and real gouda",
+    "pizzaPrice": "8.49",
+    "pizzaId": 7
+  },
+  {
+    "pizzaName": "Pizza Margherita",
+    "pizzaDescription": "With tomato sauce and real gouda",
+    "pizzaPrice": "8.49",
+    "pizzaId": 8
+  }
+]
