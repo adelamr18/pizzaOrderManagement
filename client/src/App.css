@@ -1,0 +1,16 @@
+.main-content {
+  display: flex;
+}
+.dashboard-main-container {
+  flex: 1;
+}
+.shopping-cart-main-container {
+  box-shadow: 0 0.063rem 0.313 0 rgba(0, 0, 0, 0.3);
+  width: 21.5rem;
+  top: 4.5rem;
+}
+@media (max-width: 43.75rem) {
+  .shopping-cart-main-container {
+    display: none;
+  }
+}
