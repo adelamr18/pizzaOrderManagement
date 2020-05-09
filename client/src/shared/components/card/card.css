@@ -1,0 +1,22 @@
+.card {
+  margin-top: 1rem;
+}
+.pizza-details-container {
+  display: flex;
+  justify-content: space-between;
+}
+.pizza-description {
+  display: flex;
+  flex-direction: column;
+}
+.pizza-image {
+  flex: 0 0 10.625rem;
+  height: 10.625rem;
+  width: 10.625rem;
+}
+.pizza-image-and-add-container {
+  display: flex;
+}
+.plus-icon {
+  cursor: pointer;
+}
