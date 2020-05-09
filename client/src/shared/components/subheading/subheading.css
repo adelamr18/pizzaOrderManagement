@@ -1,0 +1,14 @@
+.subheading-container {
+  border-radius: 0.125rem 0.125rem 0 0;
+  border: 0.063rem solid #f8f5f2;
+  padding: 0.813rem 1.375rem;
+  background-color: #f8f5f2;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+#subheading-name {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: black;
+}
